@@ -6,7 +6,7 @@ This repository contains a project that develops an AI model to detect and mitig
 
 
 
-    ````bash
+    ```bash
     BiasMitigationProject/ 
     ├── LICENSE # License file (MIT License) 
     ├── .gitignore # Files and directories to be ignored by Git 
